@@ -3,4 +3,4 @@ title: Giuseppe Filippone Résumé
 description: Welcome to my résumé
 sass:
   style: compact
-  sass_dir: _sass
+  sass_dir: assets/css/
