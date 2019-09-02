@@ -67,9 +67,14 @@
     margin-right: 4px;
 }
 
-.container .main .left, 
+.container .main .left {
+    width: 54%;
+    margin-right: 1%;
+}
+
 .container .main .right {
-    width: 48%;
+    width: 44%;
+    margin-left: 1%;
 }
 
 .container .main .left {
